@@ -1,2 +1,2 @@
 # playwright-ai-suite
-My Automation Framework based on Playwright using JavaScript and AI Tools.
+Playwright Automation Framework using both JavaScript & TypeScript integrating AI.
